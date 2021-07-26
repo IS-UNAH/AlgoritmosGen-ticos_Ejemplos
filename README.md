@@ -9,6 +9,7 @@ Sección: 1000
 Periodo: IIPAC
 GRUPO: #5
 
+
 La actividad consiste en desarrollar una  investigación sobre algoritmos genéticos. La investigación deberá incluir entre otras cosas:
 
 - Historia de los algoritmos genéticos.
