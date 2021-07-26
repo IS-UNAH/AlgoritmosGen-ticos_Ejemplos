@@ -4,10 +4,15 @@ Unos ejemplos básicos y detallados de como funcionan los Algoritmos Genéticos
 
 
 Clase: Inteligencia Artificial IS701
+
 Maestro: Ing. Héctor Guevara
+
 Sección: 1000 
+
 Periodo: IIPAC
+
 GRUPO: #5
+
 
 
 La actividad consiste en desarrollar una  investigación sobre algoritmos genéticos. La investigación deberá incluir entre otras cosas:
